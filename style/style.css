@@ -33,7 +33,7 @@ font-family: 'Slabo 27px', serif;
 	font-family: 'Slabo 27px', serif;
 	font-size:50px;
 	color:#333333;
-	font-style:underline;
+	
 	margin-bottom:30px;
 }
 .team_img{
@@ -57,18 +57,21 @@ p{
 	font-family: 'Slabo 27px', serif;
 	font-weight:bold;
 	color:#333333;
-	font-style:underline;
+	
 	margin-top:30px;
 	margin-bottom:20px;
 text-align:center;	
 		
 	}
+	#we_provide{
+		margin:70px 0 70px 0;
+	}
 	.home{
 		margin-top:30px;
 	}
 	.think{
-		margin:50px 0 50px 0;
-		text-decoration:underline;
+		margin:70px 0 70px 0;
+		
 		
 	}
 	.tabs_menu{
@@ -95,7 +98,7 @@ text-align:center;
 	font-family: 'Slabo 27px', serif;
 	font-weight:bold;
 	color:#333333;
-	font-style:underline;
+	
 	margin-top:30px;
 	margin-bottom:20px;
 	
