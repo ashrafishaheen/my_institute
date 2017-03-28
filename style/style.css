@@ -35,7 +35,6 @@ font-family: 'Slabo 27px', serif;
 	color:#333333;
 	font-style:underline;
 	margin-bottom:30px;
-
 }
 .team_img{
 	margin-bottom:30px;
@@ -44,15 +43,8 @@ font-family: 'Slabo 27px', serif;
 .my_icons{
 	margin-top:50px;
 }
-.mid_img{
-	margin-top:-80px;
-}
-.last_img2{
-	margin-top:-90px;
-}
-.last_img{
-	margin-top:60px;
-}
+
+
 p{
 	font-family: 'Slabo 27px', serif;
 	font-size:24px;
@@ -109,6 +101,10 @@ text-align:center;
 	
 	
 }	
+.logic{
+	margin-top:50px;
+	margin-bottom:50px;
+}
 .contact{
 	margin-right:10px;
 
@@ -175,12 +171,33 @@ text-align:center;
 	font-size:17px;
 	font-family: 'Slabo 27px', serif;
 }
-
-
-
+.tab-content p {
+	color:#333333;
+}
 
 
 @media(max-width:790px){
 .famous_courses1 [class*="col-"]{
 	margin-bottom:36px;
+}
+.last_img[class*="col-"]{
+		margin-bottom:36px;
+	}
+	.img-circle{ float:center;
+		
+	}
+	.inst_ppl[class*="col-"]{
+		margin-bottom:30px;
+	}
+	.famous_lang2{font-size:20px;
+}
+.list-inline a{
+	font-size:25px;
+}
+
+}
+@media(max-width:790px){
+	body h1{font-size:30px;
+	}
+	body a{font-size:24px;}
 }
