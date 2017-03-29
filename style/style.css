@@ -1,4 +1,7 @@
-
+html, body {
+       max-width: 100%;
+       overflow-x: hidden;
+}
 
 .navbar-brand{
 	font-family: 'Slabo 27px', serif;
@@ -179,7 +182,7 @@ text-align:center;
 }
 
 
-@media(max-width:790px){
+@media(max-width:600px){
 .famous_courses1 [class*="col-"]{
 	margin-bottom:36px;
 }
@@ -195,12 +198,32 @@ text-align:center;
 	.famous_lang2{font-size:20px;
 }
 .list-inline a{
-	font-size:25px;
+	font-size:20px;
 }
-
+.tech_team{ font-size:27px;
 }
-@media(max-width:790px){
-	body h1{font-size:30px;
+}
+@media(max-width:600px){
+	body h1{font-size:27px;
 	}
-	body a{font-size:24px;}
+	body a{font-size:21px;}
+
+.tech_content{ font-size:19px;
+}
+.caption p{
+	font-size:19px;
+}
+.heading{ font-size:40px;
+}
+.last_img{
+	
+	
+	border:3px solid white;
+	border-radius:10px;
+
+	
+}
+ p{
+	font-size:19px;
+}
 }
