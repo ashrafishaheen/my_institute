@@ -5,3 +5,5 @@ The website also includes the use of Jquery for Event-Handlers and other animati
 kdkjlskdksmdksd
 
 Skill Needed: HTML, CSS, JAVASCRIPT & BOOTSTRAP.
+
+Link of Project: http://ashigh-techinstitute.netlify.com/
